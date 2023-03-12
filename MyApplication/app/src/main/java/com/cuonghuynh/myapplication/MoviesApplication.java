@@ -6,10 +6,6 @@ import com.cuonghuynh.myapplication.data.remote.api.BuildConfig;
 
 import timber.log.Timber;
 
-/**
- * @author Yassin Ajdi
- * @since 11/10/2018.
- */
 public class MoviesApplication extends Application {
 
     @Override
